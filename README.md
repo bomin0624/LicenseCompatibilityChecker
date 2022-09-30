@@ -15,6 +15,10 @@ Go into get_license.py in the foo folder
 ```
 os.chdir('CHANGE TO YOUR PATH')
 ```
+In generate_report.py
+```
+CHARTPATH = 'YOUR IMAGE PATH'
+```
 # Run
 ```
 python3 get_license.py
