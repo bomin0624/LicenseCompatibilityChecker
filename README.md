@@ -6,7 +6,7 @@ This is a tool that helps you check the compatibility of the licenses in your pa
 ```
 pip3 install matplotlib
 pip3 install fpdf
-git clone http://35.76.124.92/gitlab/swc-act-2022/communication-project.git
+https://github.com/bomin0624/LicenseCompatibilityChecker.git
 ```
 # Change the path 
 
@@ -22,16 +22,15 @@ python3 generate_report.py
 ```
 # System Design
 
-![systemdesign](/uploads/3d3cfccad68f89921397c2b14ae58451/systemdesign.png)
+![systemdesign](https://imgur.com/a8Xyy98.png)
 
 # Result
 <p>
 After running generate_report.py, the system will generate a licensereport.pdf in your path.<br>
-[Click to check the Report Sample](http://35.76.124.92/gitlab/swc-act-2022/communication-project/-/blob/main/license_checker/foo/licensereport.pdf)<br>
 
 <div align=center><img width="500" height="600" src="https://imgur.com/UOXlALb.png"/> </div>
 
-<div align=center><img width="500" height="600" src="https://imgur.com/ejhXQyO.png"/> </div>
+<div align=center><img width="500" height="600" src="https://imgur.com/HTERkqS.png"/> </div>
 
 <div align=center><img width="900" height="450" src="https://imgur.com/kiYWCi2.png"/> </div>
 
